@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Duncan Warutere and I'm a Developer from @Seelution</p>
+<p align="left">I'm Duncan Warutere a Developer @Seelution</p>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning frameworks<br>🎯 Goals: A commit commitment<br>🎲 Fun fact: I'm secretly Spiderman... but don't tell anyone</p>
+Developer @Seelution
+--------------------
+
+Aspiring Developer ready to solve real-life problems
+
+* 🌍  I'm based in Nairobi.Kenya
+* 🧠  I'm learning An exciting framework
+* 🤝  I'm open to collaborating on Anything Code
+* ⚡  I'm secretly Spiderman... but don't tell anyone.
 
 ###
 
@@ -27,9 +35,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warutered&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warutered&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=warutered&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/warutered"><img src="https://github-readme-stats.vercel.app/api?username=warutered&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="warutered's GitHub stats" /></a>
+
+<a href="http://www.github.com/warutered"><img src="https://github-readme-streak-stats.herokuapp.com/?user=warutered&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ###
