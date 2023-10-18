@@ -8,17 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-Developer @Seelution
---------------------
-
-Aspiring Developer ready to solve real-life problems
-
-* 🌍  I'm based in Nairobi.Kenya
-* 🧠  I'm learning An exciting framework
-* 🤝  I'm open to collaborating on Anything Code
-* ⚡  I'm secretly Spiderman... but don't tell anyone.
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning frameworks<br>🎯 Goals: A commit commitment<br>🎲 Fun fact: I'm secretly Spiderman... but don't tell anyone</p>
 
 ###
 
