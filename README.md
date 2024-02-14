@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning frameworks<br>🎯 Goals: A commit commitment<br>🎲 Fun fact: I'm secretly Spiderman... but don't tell anyone</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning frameworks<br>🎯 Goals: A commit commitment<br>🦇 : I'm Batman</p>
 
 ###
 
