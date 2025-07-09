@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Duncan Warutere a Developer @Seelution</p>
+<p align="left">I'm Duncan Warutere</p>
 
 ###
 
